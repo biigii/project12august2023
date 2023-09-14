@@ -1,0 +1,8 @@
+/* :root {
+  --my-variable: #f11;
+}
+
+h1 {
+  --my-variable: blue;
+  color: var(--my-variable);
+} */
